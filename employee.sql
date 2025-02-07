@@ -15,7 +15,7 @@ insert into employe1 values(6,'606','neavi','2005/06/21','2024/07/23','50000','5
 insert into employe1 values(7,'607','sona','2004/11/24','2024/07/30','60000','2000','Namakkal','sk nagar','ECE','sona@gamil.com','suspend');
 insert into employe1 values(8,'608','kavin','2004/01/20','2025/01/30','60000','2000','Namakkal','barani nagar','EEE','kavin@gamil.com','active');
 insert into employe1 values(9,'609','dinesh','2005/02/19','2025/01/30','70000','2000','madurai','barani nagar','EEE','dinesh@gamil.com','suspend');
-insert into employe1 values(10,'610','siva','2003/02/17','2023/04/30','80000','1000','thenkasi','ngo nagar','EEE','kavin@gamil.com','inavtive');
+insert into employe1 values(10,'610','siva','2003/02/17','2023/04/30','80000','1000','thenkasi','ngo nagar','EEE','kavin@gamil.com','inactive');
 select * from employe1;
 
 -- changing the column name
